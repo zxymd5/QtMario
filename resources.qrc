@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/bgsheet.png</file>
+        <file>resources/endscene.gif</file>
+        <file>resources/enemysheet.png</file>
+        <file>resources/firemariosheet.png</file>
+        <file>resources/font.gif</file>
+        <file>resources/gameovergost.gif</file>
+        <file>resources/itemsheet.png</file>
+        <file>resources/logo.gif</file>
+        <file>resources/mapsheet.png</file>
+        <file>resources/Mario.ico</file>
+        <file>resources/mariosheet.png</file>
+        <file>resources/particlesheet.png</file>
+        <file>resources/racoonmariosheet.png</file>
+        <file>resources/smallmariosheet.png</file>
+        <file>resources/tip.png</file>
+        <file>resources/title.gif</file>
+        <file>resources/worldmap.png</file>
+    </qresource>
+</RCC>
